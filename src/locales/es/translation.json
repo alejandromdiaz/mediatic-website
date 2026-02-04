@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Acerca de",
+    "portfolio": "Portafolio",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Desarrollador de Software Full-Stack",
+      "subtitle": "Construyendo soluciones innovadoras con tecnología de vanguardia",
+      "cta": "Ver Mi Trabajo"
+    },
+    "slide2": {
+      "title": "Convirtiendo Ideas en Realidad",
+      "subtitle": "Desarrollo de software personalizado adaptado a tus necesidades",
+      "cta": "Comenzar"
+    },
+    "slide3": {
+      "title": "Código de Calidad, Resultados de Calidad",
+      "subtitle": "Entregando excelencia en cada proyecto",
+      "cta": "Contáctame"
+    }
+  },
+  "services": {
+    "subtitle": "Confía en nosotros",
+    "title": "¿Qué hacemos?",
+    "marketplaces": {
+      "title": "Marketplaces (Shopify, Amazon, Ebay, BigCommerce)",
+      "description": "Desarrollo de aplicaciones personalizadas, integración de API y personalización de tiendas"
+    },
+    "odoo": {
+      "title": "Consultoría y Desarrollo de Odoo ERP",
+      "description": "Implementación de Odoo ERP en tu organización, brindando soporte y desarrollo de módulos personalizados"
+    },
+    "cloud": {
+      "title": "Nube",
+      "description": "Ayudamos a las empresas a gestionar su infraestructura en la nube (AWS, Google, etc.), aumentando la escalabilidad y minimizando los costos"
+    },
+    "software": {
+      "title": "Desarrollo de Software",
+      "description": "Utilizando las últimas tecnologías del mercado, desarrollamos tu idea desde cero. Nos aseguramos de que la solución cumpla con los estándares de calidad y sea escalable"
+    }
+  },
+  "technologies": {
+    "subtitle": "Nuestro stack",
+    "title": "Las Tecnologías que Utilizamos",
+    "description": "Aunque no podemos listar todas las tecnologías que usamos a diario, estas son las que dominamos mejor.",
+    "items": {
+      "java": "Java",
+      "spring": "Spring Boot",
+      "nodejs": "Node.js",
+      "mysql": "MySQL",
+      "react": "React",
+      "swift": "Swift",
+      "aws": "AWS",
+      "googlecloud": "Google Cloud"
+    }
+  },
+  "footer": {
+    "description": "Desarrollador de software full-stack especializado en crear soluciones web y móviles innovadoras. Construyamos algo increíble juntos.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "madridOffice": "España",
+    "londonOffice": "Reino Unido",
+    "madrid": {
+      "address": "Centro de Empresas La Curtidora, Gutiérrez Herrero 52, 33402 Avilés, Asturias",
+      "email": "alejandro@mediaticsystems.com",
+      "phone": "+34 91 234 56 78"
+    },
+    "london": {
+      "address": "123 Oxford Street, Londres W1D 2HG, Reino Unido",
+      "email": "london@example.com",
+      "phone": "+44 20 7123 4567"
+    },
+    "copyright": "Mediatic IT Systems. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "by": "por"
+  }
+}

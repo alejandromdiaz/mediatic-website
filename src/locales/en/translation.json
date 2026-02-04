@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Full-Stack Software Developer",
+      "subtitle": "Building innovative solutions with cutting-edge technology",
+      "cta": "View My Work"
+    },
+    "slide2": {
+      "title": "Turning Ideas Into Reality",
+      "subtitle": "Custom software development tailored to your needs",
+      "cta": "Get Started"
+    },
+    "slide3": {
+      "title": "Quality Code, Quality Results",
+      "subtitle": "Delivering excellence in every project",
+      "cta": "Contact Me"
+    }
+  },
+  "services": {
+    "subtitle": "Trust us",
+    "title": "What do we do?",
+    "marketplaces": {
+      "title": "Marketplaces (Shopify, Amazon, Ebay, BigCommerce)",
+      "description": "Custom app development, API integration, and store customization"
+    },
+    "odoo": {
+      "title": "Odoo ERP Consulting and Development",
+      "description": "Odoo ERP implementation in your organization, providing support and custom module development"
+    },
+    "cloud": {
+      "title": "Cloud",
+      "description": "We help companies manage their cloud infrastructure (AWS, Google, etc.), increasing scalability and minimizing costs"
+    },
+    "software": {
+      "title": "Software Development",
+      "description": "Using the latest technologies on the market, we develop your idea from scratch. We ensure the solution meets quality standards and is scalable"
+    }
+  },
+  "technologies": {
+    "subtitle": "Our stack",
+    "title": "The Technology We Use",
+    "description": "Although we cannot list all the technologies we use daily, here are the ones we master the most.",
+    "items": {
+      "java": "Java",
+      "spring": "Spring Boot",
+      "nodejs": "Node.js",
+      "mysql": "MySQL",
+      "react": "React",
+      "swift": "Swift",
+      "aws": "AWS",
+      "googlecloud": "Google Cloud"
+    }
+  },
+  "footer": {
+    "description": "Full-stack software developer specializing in creating innovative web and mobile solutions. Let's build something amazing together.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "madridOffice": "Spain",
+    "londonOffice": "United Kingdom",
+    "madrid": {
+      "address": "Business Center La Curtidora, Gutiérrez Herrero 52, 33402 Avilés, Asturias, Spain",
+      "email": "alejandro@mediaticsystems.com",
+      "phone": "+34 91 234 56 78"
+    },
+    "london": {
+      "address": "25 Luke St, London EC2A 4DS, United Kingdom",
+      "email": "alejandro@mediaticsystems.co.uk",
+      "phone": "+44 7473 191243"
+    },
+    "copyright": "Mediatic IT Systems. All rights reserved.",
+    "madeWith": "Made with",
+    "by": "by"
+  }
+}
